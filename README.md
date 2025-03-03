@@ -7,6 +7,12 @@ Este projeto demonstra a utilização do `CoordinatorLayout` para criar uma inte
 - **Layout:** `CoordinatorLayout`, `AppBarLayout`, `CollapsingToolbarLayout`
 - **Dependências:** Material Components
 
+## 🖼 Capturas de Tela
+<p align="center">
+  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/projetoOrion/tela1.png?raw=true" alt="Tela 1" width="200" />
+  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/projetoOrion/tela2.png?raw=true" alt="Tela 2" width="200" />
+</p>
+
 ## 🛠️ Configuração da Interface (XML)
 O layout principal usa `CoordinatorLayout` para fornecer uma barra de ferramentas expansível.
 
@@ -56,3 +62,24 @@ O layout principal usa `CoordinatorLayout` para fornecer uma barra de ferramenta
         app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+## 🖼 Recapitulando os tipos de Layouts e os respectivos casos de uso.
+
+| **Tipo de Layout**       | **Descrição**                                                                 | **Características**                                                                 | **Uso Comum**                                                                 |
+|--------------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **LinearLayout**         | Organiza os elementos em uma única linha (horizontal ou vertical).            | - Orientação horizontal ou vertical.<br>- `android:orientation` define a direção. | Layouts simples com elementos alinhados em sequência.                         |
+| **RelativeLayout**       | Posiciona os elementos em relação a outros elementos ou ao contêiner pai.    | - Flexível para posicionamento relativo.<br>- Menos performático em hierarquias complexas. | Layouts onde os elementos precisam se relacionar entre si.                    |
+| **ConstraintLayout**     | Layout flexível que permite criar designs complexos com constraints.          | - Baseado em constraints (restrições).<br>- Alta performance e flexibilidade.      | Layouts complexos e responsivos, substituindo RelativeLayout em muitos casos. |
+| **FrameLayout**          | Empilha os elementos uns sobre os outros.                                     | - Útil para sobreposição de views.<br>- Geralmente usado para views únicas.       | Telas com sobreposição de elementos, como pop-ups ou fragments.               |
+| **TableLayout**          | Organiza os elementos em linhas e colunas, como uma tabela.                   | - Estrutura de tabela.<br>- Linhas e colunas definidas por `TableRow`.             | Layouts que precisam de organização tabular, como formulários.                |
+| **GridLayout**           | Organiza os elementos em uma grade (linhas e colunas).                        | - Mais flexível que TableLayout.<br>- Permite mesclar células.                     | Layouts que precisam de organização em grade, como galerias de imagens.       |
+| **CoordinatorLayout**    | Layout avançado para comportamentos complexos e interações entre views.       | - Gerencia interações entre views.<br>- Suporta animações e scrolls complexos.    | Telas com scrolls, animações e comportamentos avançados, como AppBarLayout.   |
+| **RecyclerView**         | Layout para listas e grids otimizados, com reciclagem de views.               | - Altamente eficiente para grandes conjuntos de dados.<br>- Customizável.         | Listas, grids e layouts dinâmicos com muitos itens.                           |
+| **ScrollView**           | Permite rolagem de conteúdo que excede o tamanho da tela.                     | - Suporta apenas um filho direto.<br>- Rolagem vertical.                          | Telas com conteúdo extenso que precisa de rolagem.                            |
+| **HorizontalScrollView** | Permite rolagem horizontal de conteúdo.                                       | - Similar ao ScrollView, mas com rolagem horizontal.                              | Telas com conteúdo que precisa de rolagem horizontal.                         |
+| **ViewPager**            | Permite a navegação entre telas com gestos de deslizar (swipe).               | - Navegação por fragments ou views.<br>- Suporta transições.                      | Telas de introdução, galerias ou abas deslizáveis.                            |
+| **ViewPager2**           | Versão moderna e aprimorada do ViewPager.                                     | - Suporta orientação vertical e horizontal.<br>- Melhor integração com RecyclerView. | Substitui o ViewPager em cenários mais modernos.                              |
+| **MotionLayout**         | Extensão do ConstraintLayout para animações e transições complexas.           | - Cria animações baseadas em constraints.<br>- Ideal para interações avançadas.   | Telas com animações complexas e transições fluidas.                           |
+
+
+
