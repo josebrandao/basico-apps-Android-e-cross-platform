@@ -8,13 +8,13 @@ Este projeto demonstra a utilização do `CoordinatorLayout` para criar uma inte
 - **Dependências:** Material Components
 
 ## 🖼 Capturas de Tela
-
+<p align="center">
 ### 📌 Tela 1
 <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/projetoOrion/tela1.png" width="200" height="auto"/>
 
 ### 📌 Tela 2
 <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/projetoOrion/tela2.png" width="200" height="auto"/>
-
+</p>
 
 ## 🛠️ Configuração da Interface (XML)
 O layout principal usa `CoordinatorLayout` para fornecer uma barra de ferramentas expansível.
