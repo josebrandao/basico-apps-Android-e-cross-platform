@@ -9,11 +9,13 @@ Este projeto demonstra a utilização do `CoordinatorLayout` para criar uma inte
 
 - ## 🖼 Captura de Tela
 
+## 🖼 Capturas de Tela
+
 ### 📌 Tela 1
-![Tela 1](https://github.com/josebrandao/basico-apps-Android-e-cross-platform/raw/main/projetoOrion/tela1.png)
+<img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/projetoOrion/tela1.png" width="500" height="auto"/>
 
 ### 📌 Tela 2
-![Tela 2](https://github.com/josebrandao/basico-apps-Android-e-cross-platform/raw/main/projetoOrion/tela2.png)
+<img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/projetoOrion/tela2.png" width="500" height="auto"/>
 
 
 ## 🛠️ Configuração da Interface (XML)
