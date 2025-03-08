@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">projetoOrion</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Ler o contrato</string>
+    <string name="second_fragment_label">Voltar</string>
+    <string name="next">Próxima Tela</string>
+    <string name="previous">Anterior</string>
+
+    <string name="lorem_ipsum">
+        Para ter acesso ao sistema certifique que o departamento T.I criou o seu usuário.
+    </string>
+</resources>
