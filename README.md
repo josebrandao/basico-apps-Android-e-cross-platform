@@ -41,8 +41,8 @@ Execute o aplicativo em um emulador ou dispositivo físico.
 O projeto Orion é um exemplo de Compose que demonstra:
 
 <div align="center">
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/orion1.png" alt="Descrição da Imagem 1" width="200"/>
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/orion2.png" alt="Descrição da Imagem 2" width="200"/>
+  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela1.png" alt="Descrição da Imagem 1" width="200"/>
+  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela3.png" alt="Descrição da Imagem 2" width="200"/>
 </div>
 
 🛠️ Funcionalidades
@@ -117,7 +117,10 @@ Emojis Usados:
 
 # 🚀 Projeto Saturno
 Bem-vindo ao Saturno! Este projeto é uma aplicação Android básica que demonstra uma tela de login com validação simples e uso de recursos visuais. 🎉
-
+<div align="center">
+  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno01.png" alt="Descrição da Imagem 1" width="200"/>
+  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno2" alt="Descrição da Imagem 2" width="200"/>
+</div>
 📱 Funcionalidades
 Tela de Login Simples: Uma interface de usuário limpa e intuitiva para login.
 
