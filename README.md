@@ -8,6 +8,7 @@ Este repositório contém projetos básicos de Android, explorando diferentes la
 
 - **gama01/**: Projeto exemplo de `LinearLayout` com ajustes de sincronização no Gradle e JDK.
 - **orion/**: Projeto exemplo de `Compose` utilizando `ConstraintLayout` e transições de telas.
+- **saturno/**: Projeto que explora um formulário utilizando `LinearLayout` recursos de imagens e validações simples na loginActivity.kt utilizando Toast.
 
 ---
 
