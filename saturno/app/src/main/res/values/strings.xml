@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">saturno</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+        <!-- Outras strings existentes -->
+        <string name="etec_image_description">Imagem da ETEC</string>
+        <string name="perfil_image_description">Imagem de perfil do usuário</string>
+    </resources>

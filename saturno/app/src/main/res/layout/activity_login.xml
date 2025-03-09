@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/editTextText6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="text"
+            android:text="Cargo: Professor" />
+
+        <ImageView
+            android:id="@+id/imageViewEtec"
+            android:layout_width="match_parent"
+            android:layout_height="142dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/etec"
+            android:contentDescription="@string/etec_image_description" />
+
+        <ImageView
+            android:id="@+id/imageViewPerfil"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/perfil5"
+            android:contentDescription="@string/perfil_image_description" />
+
+        <EditText
+            android:id="@+id/usuario"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="Entre com o usuário"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/edtsenha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:hint="Entre com a sua senha"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/btnEntrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Entrar" />
+    </LinearLayout>
+</ScrollView>
