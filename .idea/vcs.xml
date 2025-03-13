@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+=======
+    <mapping directory="$PROJECT_DIR$/pokedex-livro-kotlin-android" vcs="Git" />
+>>>>>>> 2f5781ab2e5921e409fb8c9e08d9336c89de6a3c
   </component>
 </project>
