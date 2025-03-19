@@ -101,10 +101,10 @@ Este repositório contém projetos básicos de Android, explorando diferentes la
 # 📱 Projeto Gama01
 
 O projeto **Gama01** é um exemplo simples de `LinearLayout` que aborda os seguintes tópicos:
-<div align="center">
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/image01.png" alt="Descrição da Imagem 1" width="200"/>
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/image02.png" alt="Descrição da Imagem 2" width="200"/>
-</div>
+
+<img src="https://raw.githubusercontent.com/josebrandao/basico-apps-Android-e-cross-platform/main/image01.png" alt="Image 01" width="200" />
+
+
 ### 🛠️ Problemas Resolvidos
 - **Sincronização no Gradle**: Ajustes para compatibilidade entre versões do Gradle e JDK.
 - **Uso de Ícones e Imagens**: Exploração de recursos básicos, como adicionar ícones e imagens nas pastas `mipmap` e `drawable`.
