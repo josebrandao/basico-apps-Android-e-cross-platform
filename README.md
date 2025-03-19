@@ -102,7 +102,10 @@ Este repositório contém projetos básicos de Android, explorando diferentes la
 
 O projeto **Gama01** é um exemplo simples de `LinearLayout` que aborda os seguintes tópicos:
 
-<img src="https://raw.githubusercontent.com/josebrandao/basico-apps-Android-e-cross-platform/main/image01.png" alt="Image 01" width="200" />
+  <p align = "center">
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/image01.png" width="200"/>
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/image02.png" width="200"/>
+  </p>
 
 
 ### 🛠️ Problemas Resolvidos
@@ -206,10 +209,10 @@ Emojis Usados:
 
 # 🚀 Projeto Saturno
 Bem-vindo ao Saturno! Este projeto é uma aplicação Android básica que demonstra uma tela de login com validação simples e uso de recursos visuais. 🎉
-<div align="center">
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno01.png" alt="Descrição da Imagem 1" width="200"/>
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno02.png" alt="Descrição da Imagem 2" width="200"/>
-</div>
+  <p align = "center">
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno01.png" width="200"/>
+        <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno02.png" width="200"/>
+  </p>
 📱 Funcionalidades
 Tela de Login Simples: Uma interface de usuário limpa e intuitiva para login.
 
