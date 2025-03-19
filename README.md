@@ -11,9 +11,9 @@ Este projeto demonstra a utilização do `CoordinatorLayout` para criar uma inte
 ## 🖼 Capturas de Tela
 
 
-  <p align ="center">
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela1.png" width="200"/>
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela2.png" width="200"/>
+  <p align = "center">
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela1.png" width="200"/>
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela2.png" width="200"/>
   </p>
 
 ## 🛠️ Configuração da Interface (XML)
@@ -127,10 +127,12 @@ Execute o aplicativo em um emulador ou dispositivo físico.
 # 🌌 Projeto Orion
 O projeto Orion é um exemplo de Compose que demonstra:
 
-<div align="center">
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela1.png" alt="Descrição da Imagem 1" width="200"/>
-  <img src="https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela3.png" alt="Descrição da Imagem 2" width="200"/>
-</div>
+
+  <p align = "center">
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela1.png" width="200"/>
+    <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/tela3.png" width="200"/>
+  </p>
+
 
 🛠️ Funcionalidades
 ConstraintLayout: Uso de ConstraintLayout para organizar elementos na tela.
