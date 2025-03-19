@@ -211,7 +211,7 @@ Emojis Usados:
 Bem-vindo ao Saturno! Este projeto é uma aplicação Android básica que demonstra uma tela de login com validação simples e uso de recursos visuais. 🎉
   <p align = "center">
     <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno01.png" width="200"/>
-        <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno02.png" width="200"/>
+     <img src= "https://github.com/josebrandao/basico-apps-Android-e-cross-platform/blob/main/saturno02.png" width="200"/>
   </p>
 📱 Funcionalidades
 Tela de Login Simples: Uma interface de usuário limpa e intuitiva para login.
